@@ -1,14 +1,18 @@
-Servidor TCP em Python
+# Servidor TCP em Python
+
 Este é um simples programa de servidor TCP em Python que demonstra como criar um servidor para aceitar conexões de clientes TCP.
 
-Requisitos
+## Requisitos
+
 Certifique-se de ter o Python instalado no seu sistema. Este programa foi desenvolvido e testado usando Python 3, mas deve funcionar com versões anteriores compatíveis com Python 2.
 
-Como usar
-Clone o repositório ou faça o download do arquivo server.py.
-Abra um terminal ou prompt de comando e navegue até o diretório onde o arquivo server.py está localizado.
-Execute o seguinte comando para iniciar o servidor:
-Copy code
+## Como usar
+
+1. Clone o repositório ou faça o download do arquivo `server.py`.
+2. Abra um terminal ou prompt de comando e navegue até o diretório onde o arquivo `server.py` está localizado.
+3. Execute o seguinte comando para iniciar o servidor:
+
+```bash
 python server.py
 Após iniciar o servidor, ele estará aguardando conexões de clientes.
 Personalização
@@ -21,6 +25,6 @@ Contribuições
 Contribuições são bem-vindas! Se você encontrar problemas ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue ou enviar uma solicitação pull request.
 
 Autor
-Este programa foi criado por [Seu Nome] seu.email@example.com.
+Este programa foi criado por Seu Nome.
 
 Se precisar de mais ajuda ou tiver alguma dúvida, entre em contato!
